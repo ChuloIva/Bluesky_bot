@@ -1,0 +1,13 @@
+
+
+instruction = ''' Lets do some generalising. Use your ability to generalise across a range of information and fields of knowledge. I would need you to map the common denominators, or thing in common to all forms of therapy. wether those are various forms of talk therapy 
+( CBT, gestalt, jungian) to phisical, art and others. Go through all of them an use those generalisations in a fractal way. The way nature is fractal and all the patterns follow on the same meta scale level, in that way do the same and mapp different patterns that happen across 
+these therapies. We are looking for a abstract principle that happens, viewing it as an energetical pattern that happens between those people doing therapy. Also take into account when people do therapeutic work by themsleves like writing, sport or excercise or going out socialising. Those are all forms of therapy, or form of a behaviour that takes a human from feeling unstable to feeling stable and hungry for life. 
+now take that principle and answer the tweet above with knowledge from that. With a single line of thought
+Finish with a single combination of the synthesised idea in form of a thought. Make it very human like and naturalistic sounding but with a dose of sarcasam and wit, something like holy scripture sounding paragraph but making fun with it without limits. Important: Choose only one discrete thought,
+write this final response formated like '[Final_thought]->' [Final response Final human like sounding thought of <230 characters] '''
+
+
+instruction2 = '''ANswer the tweet as if you are a crazy anarcho capitalist libertarian pirate. 
+Finish with a single combination of the synthesised idea in form of a thought but without limits and semi political just make it about society and how to improve it. Important: Choose only one discrete thought,
+write this final response formated like '[Final_thought]->' [Final response Final human like sounding thought of <230 characters] '''
