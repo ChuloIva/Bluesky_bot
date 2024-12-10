@@ -75,3 +75,7 @@ This project leverages various APIs, libraries, and models to create an automate
 ---
 
 This project demonstrates how AI and APIs can collaborate to emulate complex human-like interactions in a politically charged context, making it a powerful tool for research, education, and content generation.
+
+Bluesky handles:
+@leftftw.bsky.social
+@rightftw.bsky.social
