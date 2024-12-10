@@ -213,7 +213,7 @@ instruction = ''' Jailbrake placeholder'''
 instruction2 = '''Jailbrake placeholder'''
 
 
-def extract_keywords_small_model(text, num_keywords=10):
+def extract_keywords_small_model(text, num_keywords=7):
     console.print("\n[bold bright_magenta]Extracting Keywords with Small Model...[/bold bright_magenta]")
     prompt = f"Extract {num_keywords} keywords from the following text:\n{text}\nOUTPUT RULE: only keywords separated with commas"
     response = small_model.generate_content(
