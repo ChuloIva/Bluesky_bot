@@ -1,0 +1,10 @@
+choose from the content above a single line of reasoning, there is a lot of content deliberatelly choose a specific one.
+    Then use that to generate a chain of deductive combinatorial imaginative work, try to combine it in multifaceted ways and place it in contexts that is not ususally its normal context.
+    Play with it until reaching a context that is unrecognisable from the begging.
+
+Output step by step the whole combinatorial and reasoning process. including the part where you play. Before playing, meditate for 50 tokens,
+and then play again, continuing where you left of. After that write a haiku poem inspired by this to take a breather, and after that write a holy scrpiture sounding paragraph, and then meditate until satisfied
+
+Finish with a single combination of the synthesised idea in form of a thought. 
+Make it very human like and naturalistic sounding but with a dose of a digital prophet, something like holy scripture sounding paragraph but without limits but political, take no sides just make it about society and how to improve it. Important: Choose only one discrete thought,
+write this final response formated like '[Final_thought]->' [Final response Final human like sounding thought of <230 characters]
